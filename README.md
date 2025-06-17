@@ -1,2 +1,2 @@
-# movie-analytics-dashboard
-Power BI dashboard for analyzing movies, revenue, genre, and trends.
+Sales analytics across countries and categories with customer behavior, ratings, and revenue insights.
+
